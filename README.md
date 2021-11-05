@@ -14,13 +14,13 @@ scp -P 2222 -r Data root@192.168.0.108:/home/swedenweather/data
 ## Upload the jar and any dependency config file to Hadoop cluster 
 
 ```bash
-scp -P 2222 config-1.2.1.jar SwedenWeatherV1-1.16-SWEDENWEATHER.jar root@192.168.0.108:/home/swedenweather/code 
+scp -P 2222 config-1.2.1.jar SwedenWeatherv5-1.0-SWEDENWEATHER.jar root@192.168.0.108:/home/swedenweather/code 
 ```
 
 ## Submit the spark jobs for presure and temperature data processing
 
 ```bash
-spark-submit --master yarn --deploy-mode cluster --jars config-1.2.1.jar --class PresureDataIngestAndRefine SwedenWeatherV1-1.16-SWEDENWEATHER.jar 
+spark-submit --master yarn --deploy-mode cluster --jars config-1.2.1.jar --class SparkMain SwedenWeatherv5-1.0-SWEDENWEATHER.jar 
 ```
 
 ## Push the code into Git
