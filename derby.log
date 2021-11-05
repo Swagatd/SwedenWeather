@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Fri Nov 05 12:05:11 IST 2021:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.12.1.1 - (1704137): instance a816c00e-017c-eece-ef8a-00000b5f1800 
+on database directory F:\Scala Project\SwedenWeatherv5\metastore_db with class loader org.apache.spark.sql.hive.client.IsolatedClientLoader$$anon$1@1b30a54e 
+Loaded from file:/C:/Users/LENOVO/.m2/repository/org/apache/derby/derby/10.12.1.1/derby-10.12.1.1.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_221-b11
+user.dir=F:\Scala Project\SwedenWeatherv5
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''

@@ -5,8 +5,8 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.swedenweather</groupId>
-    <artifactId>SwedenWeatherV1</artifactId>
-    <version>1.16-SWEDENWEATHER</version>
+    <artifactId>SwedenWeatherv5</artifactId>
+    <version>1.0-SWEDENWEATHER</version>
 
     <properties>
         <maven.compiler.source>1.8</maven.compiler.source>
@@ -60,9 +60,9 @@
 
 
         <dependency>
-            <groupId>mysql</groupId>
-            <artifactId>mysql-connector-java</artifactId>
-            <version>8.0.19</version>
+            <groupId>org.apache.spark</groupId>
+            <artifactId>spark-hive_2.11</artifactId>
+            <version>2.3.1</version>
         </dependency>
 
 
@@ -77,7 +77,6 @@
 
 
     </dependencies>
-
 
 
 </project>

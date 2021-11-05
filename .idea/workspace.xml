@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8bdaee5f-d7f8-4cf9-b692-847e553ccb5e" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="20UC3eBpZ97t9AVD2o7NvmWmeTM" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="SparkMain" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="spark.main.SparkMain" />
+      <module name="SwedenWeatherv5" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="spark.main.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.SparkMain" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8bdaee5f-d7f8-4cf9-b692-847e553ccb5e" name="Default Changelist" comment="" />
+      <created>1636089581628</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1636089581628</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="413" y="119" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog" timestamp="1636105772354">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="413" y="119" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog/0.0.1366.728@0.0.1366.728" timestamp="1636105772354" />
+    <state x="416" y="53" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog" timestamp="1636089633286">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="416" y="53" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog/0.0.1366.728@0.0.1366.728" timestamp="1636089633286" />
+    <state width="1367" height="178" key="GridCell.Tab.0.bottom" timestamp="1636106447169">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1367" height="178" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1636106447169" />
+    <state width="1367" height="178" key="GridCell.Tab.0.center" timestamp="1636106447168">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1367" height="178" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1636106447168" />
+    <state width="1367" height="178" key="GridCell.Tab.0.left" timestamp="1636106447168">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1367" height="178" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1636106447168" />
+    <state width="1367" height="178" key="GridCell.Tab.0.right" timestamp="1636106447169">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1367" height="178" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1636106447169" />
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1636096885869">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1636096885869" />
+  </component>
+</project>
