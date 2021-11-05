@@ -1,4 +1,4 @@
-# Read the Sweden Weather Data and load into MYSQL table using scala and spark
+# Read the Sweden Weather Data and load into Hive table using scala and spark
 
 ## Login to Hadoop cluster using ssh and copy to HDFS location
 
