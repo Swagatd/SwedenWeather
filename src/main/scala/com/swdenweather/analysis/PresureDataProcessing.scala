@@ -23,10 +23,10 @@ object PresureDataProcessing extends SparkConfiguration{
   // logger
   val log = Logger.getLogger(getClass.getName)
 
-  /*
-   * Presure weather data transformation and analysis
+
+  /**Swedenweather Presure data transformation and analysis
    *
-   * Pass the SparkSession parameter
+   * @param sparkSession
    */
 
 

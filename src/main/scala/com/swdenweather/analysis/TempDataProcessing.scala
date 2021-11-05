@@ -11,7 +11,6 @@ import spark.utilities.SparkConfiguration
 
 import scala.util.Failure
 
-
 /**
  * Spark program that read,transforms and load the Temperature data into hive table.
  *
@@ -19,7 +18,13 @@ import scala.util.Failure
  */
 
 object TempDataProcessing extends SparkConfiguration {
+
   val log = Logger.getLogger(getClass.getName)
+
+  /**Swedenweather temperature data transformation and analysis
+   *
+   * @param sparkSession
+   */
 
 
   def temperatureAnalysis(sparkSession: SparkSession): Unit = {

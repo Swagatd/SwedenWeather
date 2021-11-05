@@ -14,7 +14,12 @@ import org.apache.spark.sql.types.{StringType, StructType}
 
 object PresureFunction {
 
-  // Read the schema of string type and return it in StructType
+
+  /**Read the schema of string type and return it in StructType
+   *
+   * @param schema_arg
+   * @return
+   */
 
   def read_schema(schema_arg : String):StructType = {
 

@@ -14,6 +14,13 @@ object SparkCommon {
   // logger
   val log = Logger.getLogger(getClass.getName)
 
+  /**This method will create hive table and load the data
+   *
+   * @param spark
+   * @param df
+   * @param hiveTable
+   */
+
   def writeToHiveTable(spark:SparkSession,df:DataFrame,hiveTable : String): Unit ={
     log.warn("writeToHiveTable Started")
 
